@@ -1,0 +1,9 @@
+﻿{
+  // Note:
+  //  This file will be updated in Octopus, based on the Deployment environments.
+  // Possible string values reported below. When empty it use ENV variable value or Visual Studio setting.
+  // - Production
+  // - Staging
+  // - Development
+  "ASPNETCORE_ENVIRONMENT": ""
+}
